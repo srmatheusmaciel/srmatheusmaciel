@@ -33,12 +33,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
----
-
-### 📊 Minhas Estatísticas no GitHub:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=srmatheusmaciel&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=srmatheusmaciel&layout=compact&theme=radical)
+guagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=srmatheusmaciel&layout=compact&theme=radical)
 
 ---
 
