@@ -5,7 +5,7 @@
 - Trabalho a 6 anos no Exército Brasileiro.
 - Atualmente sou Sargento Especialista na área de Desenvolvimento de Software.
 - 🔭 Atualmente estou trabalhando em 2 projetos,
-  Full stacks:[projeto/cardapio-hamburgueria](https://github.com/srmatheusmaciel/projeto_full_stack)
+  Full stacks: [projeto/cardapio-hamburgueria](https://github.com/srmatheusmaciel/projeto_full_stack)
               [lab-protese-dentaria](https://github.com/srmatheusmaciel/project)
               e desenvolvendo os desafios de código da DIO e Rocketseat.
 
