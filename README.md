@@ -5,12 +5,12 @@
 - Trabalho a 7 anos no Exército Brasileiro.
 - Atualmente sou Sargento Especialista na área de Desenvolvimento de Software.
 - Estudante de Ciência da Computação pela UNICARIOCA (8º período).
-- 🌱 Estudando: Flask, MongoDB, React, Java, Spring e Docker.
+- 🌱 Estudando: Flask, MongoDB, React,Typescript, Java, Spring e Docker.
 
 ### 💬 Posso contribuir com:
 - Desenvolvimento Backend com **Python (Flask)**, **Node.js**, **Java** e **Spring**
 - Integração de **APIs RESTful** e banco de dados SQL e NOSQL.
-- Desenvolvimento Frontend com **React** e **Tailwind CSS**
+- Desenvolvimento Frontend com **React**, **TypeScript** e **Tailwind CSS**
 - Melhores práticas em **arquitetura de software** e **design patterns**
 - Otimização de código e **melhorias de performance**.
 - 📫 Como me encontrar: [eumatheusmaciel@gmail.com](mailto:eumatheusmaciel@gmail.com)
