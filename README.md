@@ -1,19 +1,20 @@
-# Olá, eu sou Matheus Maciel 👋
+# Hello, I'm Matheus Maciel 👋  
 
-### Sobre mim:
-- Sou um desenvolvedor de software apaixonado por criar soluções eficientes e inovadoras.
-- Trabalho a 7 anos no Exército Brasileiro.
-- Atualmente sou Sargento Especialista na área de Desenvolvimento de Software.
-- Estudante de Ciência da Computação pela UNICARIOCA (8º período).
-- 🌱 Estudando: Flask, MongoDB, React,Typescript, Java, Spring e Docker.
+### About Me:  
+- I'm a software developer passionate about creating efficient and innovative solutions.  
+- I have been working for 7 years in the **Brazilian Army**.  
+- Currently, I am a **Specialist Sergeant** in Software Development.  
+- Computer Science student at **UNICARIOCA (8th semester)**.  
+- 🌱 Currently studying: **Java, Spring Boot, Python, MongoDB, React, TypeScript, Docker and Machine Learning**.  
 
-### 💬 Posso contribuir com:
-- Desenvolvimento Backend com **Python (Flask)**, **Node.js**, **Java** e **Spring**
-- Integração de **APIs RESTful** e banco de dados SQL e NOSQL.
-- Desenvolvimento Frontend com **React**, **TypeScript** e **Tailwind CSS**
-- Melhores práticas em **arquitetura de software** e **design patterns**
-- Otimização de código e **melhorias de performance**.
-- 📫 Como me encontrar: [eumatheusmaciel@gmail.com](mailto:eumatheusmaciel@gmail.com)
+### 💬 I can contribute with:  
+- Backend development with **Java**, **Python**, **Node.js**,  and **Spring Boot**  
+- Integration of **RESTful APIs** and SQL/NOSQL databases  
+- Frontend development with **React**, **TypeScript**, and **Tailwind CSS**  
+- Best practices in **software architecture** and **design patterns**  
+- Code optimization and **performance improvements**  
+- 📫 How to reach me: [eumatheusmaciel@gmail.com](mailto:eumatheusmaciel@gmail.com)  
+
 
 ---
 
@@ -28,6 +29,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=ai&logoColor=white)  
 
 ---
 
@@ -38,9 +40,8 @@
 
 
 
-  Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades, 
-contribuindo para projetos que tenham um impacto positivo. Além de programar, gosto de compartilhar
-conhecimento e colaborar com outros desenvolvedores, seja em projetos open source ou em projetos particulares.
-  
-  Quando não estou codificando, você pode me encontrar explorando novas tecnologias,
-lendo sobre desenvolvimento, desfrutando de um bom filme, estudando música ou cozinhando. :)
+ 
+I am always looking to learn new technologies and improve my skills, contributing to projects that have a positive impact.  
+Besides programming, I enjoy sharing knowledge and collaborating with other developers, whether in open-source projects or private initiatives.  
+
+When I'm not coding, you can find me exploring new technologies, reading about development, enjoying a good movie, studying music, or cooking. :)  
