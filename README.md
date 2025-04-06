@@ -5,7 +5,7 @@
 - I have been working for 7 years in the **Brazilian Army**.  
 - Currently, I am a **Specialist Sergeant** in Software Development.  
 - Computer Science student at **UNICARIOCA (8th semester)**.  
-- 🌱 Currently studying: **Java, Spring Boot, Python, MongoDB, React, TypeScript, Docker and Machine Learning**.  
+- 🌱 Currently studying: **Java, Spring Boot, Python, React, TypeScript, Docker and Machine Learning**.  
 
 ### 💬 I can contribute with:  
 - Backend development with **Java**, **Python**, **Node.js**,  and **Spring Boot**  
