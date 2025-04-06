@@ -18,7 +18,7 @@
 
 ---
 
-### 🚀 Ferramentas e Tecnologias:
+### 🚀 Tools and Technologies:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -33,7 +33,7 @@
 
 ---
 
-### 🌐 Redes Sociais:
+### 🌐 Social media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srmatheusmaciel/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srmatheusmaciel)
 [![Instagram](https://img.shields.io/badge/Instagram-follow%20me%20-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/srmatheusmaciel)
