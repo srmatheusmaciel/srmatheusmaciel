@@ -4,7 +4,7 @@
 - I'm a software developer passionate about creating efficient and innovative solutions.  
 - I have been working for 7 years in the **Brazilian Army**.  
 - Currently, I am a **Specialist Sergeant** in Software Development.  
-- Computer Science student at **UNICARIOCA (8th semester)**.  
+- Computer Science student at **UNICARIOCA**.  
 - 🌱 Currently studying: **Java, Spring Boot, Python, React, TypeScript, Docker and Machine Learning**.  
 
 ### 💬 I can contribute with:  
