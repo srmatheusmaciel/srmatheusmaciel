@@ -2,8 +2,8 @@
 
 ### About Me:  
 - I'm a software developer passionate about creating efficient and innovative solutions.  
-- I have been working for 7 years in the **Brazilian Army**.  
-- Currently, I am a **Specialist Sergeant** in Software Development.  
+- I worked for 7 years in the **Brazilian Army**.
+- I'm currently a **Software Developer** at Montreal. 
 - Bachelor’s Degree in Computer Science
 - Postgraduate Degree Software Engineering - ongoing
 - 🌱 Currently studying: **Java, Spring Boot, Python, React, TypeScript, Docker and Machine Learning**.  
@@ -25,8 +25,6 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=ai&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
